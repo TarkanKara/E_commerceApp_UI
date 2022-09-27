@@ -1,3 +1,4 @@
+import 'package:ecommerceappui/bottomnavbar.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/container.dart';
 import 'package:flutter/src/widgets/framework.dart';
@@ -254,7 +255,7 @@ class _HomePageState extends State<HomePage> {
               ),
               //START GRIDVIEW
               SizedBox(
-                height: 550,
+                height: 490,
                 child: GridView.builder(
                   physics: NeverScrollableScrollPhysics(),
                   gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
