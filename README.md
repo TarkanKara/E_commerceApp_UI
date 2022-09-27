@@ -1,16 +1,4 @@
-# ecommerceappui
+# [E-CommerceApp_UI](https://www.figma.com/community/file/1147397006143520441)
+## E-CommerceApp_ui with flutter
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![ecommerceappui](https://user-images.githubusercontent.com/59411109/192585888-03b88a13-7e82-4115-8aef-c8aa3d8846d7.gif)
